@@ -73,5 +73,5 @@ Hosts can leverage these insights to optimize their listings and increase profit
 
 ---
 
-## 👨‍💻 Author
+## Author
 Diego Franco
